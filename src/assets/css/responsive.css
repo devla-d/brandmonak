@@ -1,0 +1,26 @@
+/* [responsive] */
+/* Small Devices Potrait */
+@media (max-width: 767px) {
+  #in-header nav {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; }
+    #in-header nav .in-nav-logo {
+      padding: 15px 10px; }
+    #in-header nav .in-nav-menu {
+      margin: 0px 0px; }
+  .in-banner-content {
+    padding: 248px 10px 24px 10px !important; }
+    .in-banner-content .in-banner-box.spt {
+      margin-top: 43px !important; }
+    .in-banner-content .in-banner-title {
+      font-size: 46px !important; }
+    .in-banner-content blockquote {
+      margin: 20px 0px !important; }
+  .in-card {
+    width: 100%; } }
+
+/*** Large Devices, Wide Screens ***/
+/*** Devices Width 767px and Up ***/
+/*** Only Medium Devices, Desktops ***/
+/* Small Devices, Tablets */

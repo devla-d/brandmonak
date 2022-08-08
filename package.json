@@ -1,0 +1,14 @@
+{
+    "name": "brandmonak",
+    "version": "1.0.0",
+    "description": "this is a portfolio project",
+    "main": "index.js",
+    "scripts": {
+        "scss": "node-sass --watch src/assets/scss -o src/assets/css"
+    },
+    "author": "devlad",
+    "license": "ISC",
+    "dependencies": {
+        "node-sass": "^7.0.1"
+    }
+}
